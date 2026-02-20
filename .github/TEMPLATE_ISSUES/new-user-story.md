@@ -1,5 +1,5 @@
 ---
-title: "New User Story
+title: "New User Story"
 ---
 
 ## Value proposition
