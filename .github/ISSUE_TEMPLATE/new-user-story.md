@@ -1,5 +1,9 @@
 ---
-title: "New User Story"
+name: New User Story
+about: Create a new user story
+title: ""
+labels: ""
+assignees: ""
 ---
 
 ## Value proposition
